@@ -78,7 +78,7 @@ body {
   border-radius: 10px;
   border-radius: 53px;
   background: var(--cor-Display-Tema-Escuro);
-  box-shadow:  11px 11px 22px var(--cor-sombra1),-11px -11px 22px var(--cor-sombra2);
+  box-shadow:  6px 6px 11px var(--cor-sombra1),-6px -6px 11px var(--cor-sombra2);
   margin: 10px 20px 10px 0px;
 }
 
