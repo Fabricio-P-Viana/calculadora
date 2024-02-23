@@ -83,7 +83,7 @@ body {
 }
 
 .btn:hover {
-  background: var(--cor-Display-Tema-Escuro);;
+  background: var(--cor-Display-Tema-Escuro);
   box-shadow:  2px 2px 2px #1FBEE1,-2px -2px 2px #1FBEE1;
   margin: 10px 20px 10px 0px;
 }
